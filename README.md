@@ -1,0 +1,2 @@
+# qrd
+Quantum-Relational Dynamics
